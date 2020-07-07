@@ -10,7 +10,7 @@ all users that need to be done
 
 format for userinfo.txt is below.
 
-william.bennet@we.org
+william.bennet@we.org \n
 billiam.bennet@we.org
 jeff.test@we.org
 
